@@ -1,4 +1,4 @@
-# pandas-challenge
+# Schools
 
 attempt2 - stores my finished code minus the formatting  
 
